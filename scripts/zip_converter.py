@@ -1,5 +1,5 @@
 def zip_dictionary():
-    input_file = open('US20Codes20201320Data.txt', 'r')
+    input_file = open('scripts/US20Codes20201320Data.txt', 'r')
     zipcode_dictionary = {}
     for input_line in input_file:
         divided_info = input_line.split(",")

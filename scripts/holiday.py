@@ -1,6 +1,5 @@
 # limited by free APIs and Recurse guideline to avoid frameworks
 # API in use only provides public holidays, not religious and/or cultural holidays
-
 import requests
 
 
